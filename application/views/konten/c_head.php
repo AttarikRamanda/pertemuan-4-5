@@ -18,6 +18,7 @@ CodeIgniter</h3>
  <ul>
  <li><a href="<?= base_url('home') ?>">Beranda</a></li>
  <li><a href="<?= base_url('about') ?>">about</a></li>
+ <li><a href="<?= base_url('daftar') ?>">daftar</a></li>
  </ul>
  </nav>
  <div class="clear"></div>
